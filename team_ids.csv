@@ -1,0 +1,718 @@
+"team_short_display_name","team_id"
+"Purdue",2509
+"UConn",41
+"Alabama",333
+"NC State",152
+"Indiana St",282
+"Seton Hall",2550
+"Georgia",61
+"Utah",254
+"Duke",150
+"Tennessee",2633
+"Clemson",228
+"Illinois",356
+"Creighton",156
+"Houston",248
+"Gonzaga",2250
+"Marquette",269
+"Iowa State",66
+"North Carolina",153
+"San Diego St",21
+"Arizona",12
+"VCU",2670
+"UNLV",2439
+"Purdue FW",2870
+"Norfolk St",2450
+"High Point",2272
+"Seattle U",2547
+"Fairfield",2217
+"Cincinnati",2132
+"Ohio State",194
+"Arkansas St",2032
+"Tarleton St",2627
+"Evansville",339
+"Chicago St",2130
+"Montana",149
+"Cleveland St",325
+"Yale",43
+"Boston College",103
+"Iowa",2294
+"Texas A&M",245
+"Northwestern",77
+"South Florida",58
+"Grand Canyon",2253
+"Baylor",239
+"Quinnipiac",2514
+"James Madison",256
+"Wake Forest",154
+"Little Rock",2031
+"Utah State",328
+"Minnesota",135
+"Presbyterian",2506
+"Colorado",38
+"N Colorado",2458
+"Oregon",2483
+"Duquesne",2184
+"Texas",251
+"Oakland",2473
+"Virginia Tech",259
+"Washington St",265
+"Delaware St",2169
+"Michigan St",127
+"Alabama A&M",2010
+"Kansas",2305
+"UC San Diego",28
+"Bradley",71
+"Bethune",2065
+"Dayton",2168
+"North Texas",249
+"Saint Mary's",2608
+"TCU",2628
+"Wisconsin",275
+"Longwood",2344
+"Charleston",232
+"Grambling",2755
+"Vermont",261
+"Nebraska",158
+"Florida",57
+"Auburn",2
+"Stetson",56
+"New Mexico",167
+"Western KY",98
+"UAB",5
+"Colgate",2142
+"FAU",2226
+"Samford",2535
+"Drake",2181
+"Texas Tech",2641
+"Saint Peter's",2612
+"McNeese",2377
+"S Dakota St",2571
+"Kentucky",96
+"Colorado St",36
+"Nevada",2440
+"South Carolina",2579
+"Morehead St",2413
+"Wagner",2681
+"Long Beach St",299
+"Akron",2006
+"BYU",252
+"Mississippi St",344
+"Boise St",68
+"San Francisco",2539
+"Villanova",222
+"Princeton",163
+"Appalachian St",2026
+"Austin Peay",2046
+"Saint Joseph's",2603
+"SMU",2567
+"Loyola Chicago",2350
+"Bowling Green",189
+"Abilene Chrstn",2000
+"Montana St",147
+"UC Irvine",300
+"Virginia",258
+"UCF",2116
+"Richmond",257
+"Butler",2086
+"Kansas St",2306
+"Texas A&M-CC",357
+"LSU",99
+"Providence",2507
+"Xavier",2752
+"Cornell",172
+"Texas Southern",2640
+"Howard",47
+"Temple",218
+"Brown",225
+"UT Arlington",250
+"UC Davis",302
+"UTEP",2638
+"Kent State",2309
+"St Bonaventure",179
+"UMass Lowell",2349
+"Hawai'i",62
+"Charlotte",2429
+"Indiana",84
+"Marist",2368
+"NC Central",2428
+"Ohio",195
+"Pitt",221
+"St John's",2599
+"Wichita St",2724
+"MTSU",2393
+"East Carolina",151
+"Sam Houston",2534
+"UC Riverside",27
+"SF Austin",2617
+"Southern",2582
+"Stanford",24
+"Penn State",213
+"Rider",2520
+"CSU Northridge",2463
+"CA Baptist",2856
+"New Mexico St",166
+"SC State",2569
+"Tulane",2655
+"Ole Miss",145
+"W Michigan",2711
+"Niagara",315
+"Liberty",2335
+"Morgan St",2415
+"UCLA",26
+"Miami OH",193
+"Arkansas",8
+"USC",30
+"Fresno St",278
+"Jackson St",2296
+"Maryland",120
+"Memphis",235
+"UMass",113
+"C Michigan",2117
+"Tulsa",202
+"Florida St",52
+"Toledo",2649
+"Santa Barbara",2540
+"Arizona St",9
+"Alabama St",2011
+"Missouri",142
+"Iona",314
+"DePaul",305
+"Bakersfield",2934
+"Utah Valley",3084
+"Louisiana Tech",2348
+"California",25
+"Michigan",130
+"MD-Eastern",2379
+"Saint Louis",139
+"Lehigh",2329
+"Air Force",2005
+"Vanderbilt",238
+"Syracuse",183
+"Georgetown",46
+"Rutgers",164
+"Canisius",2099
+"FIU",2229
+"Coppin St",2154
+"Oregon St",204
+"Nicholls",2447
+"La Salle",2325
+"San José St",23
+"UTSA",2636
+"Oklahoma",201
+"Alcorn St",2016
+"Washington",264
+"Notre Dame",87
+"Fordham",2230
+"Wyoming",2751
+"Rice",242
+"George Mason",2244
+"Siena",2561
+"Idaho St",304
+"Denver",2172
+"J'Ville St",55
+"Manhattan",2363
+"Sacramento St",16
+"Miami",2390
+"Stony Brook",2619
+"Milwaukee",270
+"Merrimack",2771
+"Lamar",2320
+"Bryant",2803
+"Mount St Marys",116
+"New Hampshire",160
+"Rhode Island",227
+"Louisville",97
+"West Virginia",277
+"G Washington",45
+"Georgia Tech",59
+"Oklahoma St",197
+"Davidson",2166
+"Portland St",2502
+"N Kentucky",94
+"Omaha",2437
+"Santa Clara",2541
+"Hofstra",2275
+"Texas A&M-Comm",2837
+"Weber St",2692
+"ETSU",2193
+"St Thomas (MN)",2900
+"Towson",119
+"New Orleans",2443
+"North Dakota",155
+"Delaware",48
+"N'Western St",2466
+"Texas St",326
+"E Washington",331
+"N Dakota St",2449
+"Chattanooga",236
+"Drexel",2182
+"SE Louisiana",2545
+"Boston U",104
+"Furman",231
+"UNC Wilmington",350
+"Bucknell",2083
+"Monmouth",2405
+"UNC Asheville",2427
+"Portland",2501
+"San Diego",301
+"N Arizona",2464
+"Kansas City",140
+"Fullerton",2239
+"Hampton",2261
+"Marshall",276
+"W Carolina",2717
+"Idaho",70
+"Southern Utah",253
+"UT Rio Grande",292
+"Oral Roberts",198
+"Cal Poly",13
+"Northeastern",111
+"Troy",2653
+"Wofford",2747
+"Prairie View",2504
+"Penn",219
+"AR-Pine Bluff",2029
+"Florida A&M",50
+"Northern Iowa",2460
+"Miss Valley St",2400
+"UAlbany",399
+"Binghamton",2066
+"UMBC",2378
+"Louisiana",309
+"Utah Tech",3101
+"William & Mary",2729
+"UNC Greensboro",2430
+"C Connecticut",2115
+"Maine",311
+"Gardner-Webb",2241
+"Columbia",171
+"GA Southern",290
+"Campbell",2097
+"Le Moyne",2330
+"Mercer",2382
+"LMU",2351
+"UT Martin",2630
+"UIC",82
+"Pepperdine",2492
+"W Illinois",2710
+"South Dakota",233
+"VMI",2678
+"Ball State",2050
+"N Illinois",2459
+"Buffalo",2084
+"E Michigan",2199
+"Charleston So",2127
+"The Citadel",2643
+"Elon",2210
+"Belmont",2057
+"Winthrop",2737
+"NC A&T",2448
+"Missouri St",2623
+"Radford",2515
+"SIUE",2565
+"S Illinois",79
+"Green Bay",2739
+"Georgia St",2247
+"Wright St",2750
+"North Alabama",2453
+"Tennessee St",2634
+"Holy Cross",107
+"Lafayette",322
+"Navy",2426
+"American",44
+"Youngstown St",2754
+"Illinois St",2287
+"Jacksonville",294
+"Southern Miss",2572
+"Pacific",279
+"Valparaiso",2674
+"Coastal Car",324
+"Murray St",93
+"South Alabama",6
+"E Illinois",2197
+"Incarnate Word",2916
+"SC Upstate",2908
+"Hou Christian",2277
+"So Indiana",88
+"St Francis PA",2598
+"Long Island",112358
+"Sacred Heart",2529
+"Fair Dickinson",161
+"Old Dominion",295
+"Detroit Mercy",2174
+"North Florida",2454
+"Lipscomb",288
+"Loyola MD",2352
+"IUPUI",85
+"Robert Morris",2523
+"E Kentucky",2198
+"Queens",2511
+"Harvard",108
+"Dartmouth",159
+"Army",349
+"UL Monroe",2433
+"Kennesaw St",338
+"FGCU",526
+"SE Missouri",2546
+"Tennessee Tech",2635
+"NJIT",2885
+"Lindenwood",2815
+"Stonehill",284
+"Bellarmine",91
+"C Arkansas",2110
+"Indiana Nw",3088
+"Bryn Athyn",109684
+"Wells College",124846
+"Queens NY",2512
+"St Xavier",2615
+"East-West",3107
+"Morehouse",60
+"Vulynchbrg",3229
+"Bethel (TN)",2064
+"Mtvincent",329
+"Reinhardt",2890
+"Dall Christian",2937
+"Truetmccon",3245
+"Champ Christian",3134
+"OLLU",3158
+"JohnsonFL",3097
+"Clarks Summit",109636
+"Bible Studies",128256
+"Dallas",2163
+"Bethesda",3246
+"Boyce",109700
+"Trevecca",2906
+"WESTCLIFF",111910
+"Ecclesia",3120
+"Carroll MT",2104
+"EMERSON",108842
+"Fresno Pac",2235
+"ANTELOPE",109597
+"Paul Quinn",2491
+"Cal Maritime",500
+"Schreiner",2544
+"Coker",229
+"King Coll",2312
+"Marywood",2374
+"Erskine",2215
+"Loyola LA",100
+"LSU Shreveport",2353
+"Anderson SC",380
+"Cleary U",128438
+"Jwales",3169
+"Arcadia",407
+"Mobile",2920
+"Merch Marn",2383
+"Mercy",2384
+"Toccoa Fal",2648
+"Elizabeth",66786
+"Northwood",2886
+"Adams St",2001
+"E New Mex",2201
+"Sw Ok St",2927
+"Wilberforce",2726
+"Montreat",2410
+"Aquinas",486
+"Elms College",111948
+"Dillard",2176
+"Talladega",2625
+"S Wesleyan",2576
+"Truman St",2654
+"Ft Vly St",2232
+"FL Memorial",2227
+"Rockford",2524
+"Gwynedd-Mercy",461
+"Siena Heights",2562
+"Brewton-Parker",2077
+"Medgar Evers",2380
+"Greensboro",2256
+"Kean",2871
+"Muskingum",332
+"DE Valley",2808
+"St Mary Md",117
+"Penn State-NK",126910
+"Ucmerced",3185
+"Uw-Riv Fls",2723
+"Defiance",190
+"MSOE",110437
+"Park U Gilbert",123350
+"Rosemont",465
+"THMAS",2645
+"Alice Lloyd",484
+"KY Christian",3077
+"Brescia",2855
+"N New Mex",3141
+"William Woods",2931
+"Bryan (TN)",2081
+"CS D Hills",2092
+"St Kath",3249
+"St. Francis IL",2595
+"John Brown",2301
+"So-New Orleans",2573
+"Davenport",3092
+"Bridgewater VA",2079
+"Wiley",2728
+"Stanislaus St",2616
+"Calumet",502
+"CENTRALCHR",112698
+"LeTourneau",2326
+"Eureka",101
+"S Virginia",2896
+"Houghton",538
+"Bluefield U",495
+"Wstmnstrpa",2849
+"North American",126750
+"Arlington Bpt",3166
+"Texas Lutheran",2639
+"Penn Allegheny",124950
+"Col St Pueblo",49865
+"Lind Wilsn",2877
+"Crown",509
+"Montevallo",2409
+"Blackburn",2070
+"Saint Vincent",2614
+"Miami-Hamilton",124809
+"Hartford",42
+"Wash Md",2689
+"SAGUAIC",112679
+"Trinity (FL)",3155
+"Lynchburg",2355
+"Trinity Baptist",3174
+"St. Andrews",2592
+"Tusculum",2839
+"Saginaw",129
+"Mayvlle St",561
+"Birm-Southern",3
+"SMWC",126824
+"Augustine",395
+"Cumberland (KY)",511
+"Bethany WV",2062
+"Portland Bible",3217
+"Regent",111926
+"Mid-Atlantic",108806
+"Sterling (KS)",128657
+"Waldorf",3080
+"AVILA",2048
+"Tabor",619
+"Pfeiffer",2945
+"Bowie State",2075
+"Jarv Chrst",2299
+"N Greenvl",2822
+"Mary Baldwin",124942
+"Gallaudet",417
+"Hawaii Pac",2269
+"Hwrd Payne",2758
+"Ohio Dom",2477
+"OAKHILLCHR",110436
+"Tenn Wesl",2632
+"Buffalo St",2085
+"AR-Fort Smith",3157
+"NW Nzarene",2887
+"Northwest",2465
+"Ozark Chrstn",127162
+"Felician",128327
+"Goshen",3067
+"George Fox",415
+"Elizabeth",2207
+"Spring Hill",2590
+"Western Oregon",2848
+"Mont Tech",148
+"Cairn",3216
+"Bobjones",3243
+"LeMoyne-Owen",2917
+"Carolina",108942
+"Colby-Sawyer",35
+"BETHEL (IN)",122634
+"Rust",2892
+"Berea",2061
+"LIFEPACIFC",109670
+"Lew & Clrk",2333
+"SW Adventist",2903
+"Coe",2141
+"Har-Stowe",534
+"VT-Lyndon",551
+"Bloomsburg",2071
+"FDU Florhm",2221
+"UNT Dallas",126794
+"Whittier",2850
+"Monstnor",569
+"Occidental",2475
+"SD Tech",7298
+"Hardin-Sim",2810
+"Midway",111166
+"Central Penn",3164
+"Mississippi Un",126826
+"Belhaven",2056
+"SUNY Potsdam",182
+"New College FL",128550
+"Ed Waters",2206
+"Fisher",524
+"W New Mex",2703
+"MGAST",109014
+"Stanton",128501
+"La Grange",548
+"MO Baptist",2880
+"Keystone",108860
+"Colorado Coll",2144
+"UHSP",112686
+"William Peace",108807
+"Lake Superior",285
+"Johnson (TN)",3239
+"SUNY-Maritime",2951
+"Car Christian",128326
+"Rocky Mnt",2826
+"Hannibal",533
+"Shawnee State",2893
+"Apprentice",3111
+"Warren Wil",2684
+"Bellevue Univ",2853
+"Menlo Coll",2381
+"Campbelsvl",2098
+"Albany St",2013
+"Frdonia St",2902
+"Coastalga",3189
+"U Southwest",3154
+"Conc.-St. Paul",3066
+"Spalding",2589
+"Point Loma Nz",2500
+"Navajo Tech",128585
+"YORKCOLNEB",109998
+"Ark Bapt",2027
+"Mount Marty",573
+"Sprngfield",81
+"HOOD",108854
+"Angelo State",2025
+"Northern Vermo",126751
+"Mt Olive",2418
+"Notre Dame MD",128342
+"Vanguard",2585
+"Willamette",2930
+"Wittenberg",2746
+"Voorhees",2679
+"Limestone",2336
+"W COLORADO",112694
+"Chaminade",2124
+"Westmont",2716
+"Col Christian",2862
+"Wallawalla",3152
+"FRANCISCAN",111170
+"Mid Am Chr",3126
+"Northland",2462
+"Johnson Wales",353
+"Lynn",2357
+"Bluemtn",494
+"Wi Stout",2744
+"D'Youville",126796
+"Pit Greensburg",126821
+"Aurora",2044
+"Lake Erie",437
+"Wilkes",398
+"Kentucky St",2310
+"Milligan",2397
+"Penn State-Sch",128344
+"Pacif. Lutheran",2486
+"Luther",67
+"Valley City",628
+"SUNYONENTA",355
+"RI College",226
+"Science & Arts",608
+"LA Christian",2347
+"Xavier LA",2753
+"Westfield St",2909
+"Rob. Wesleyan",128531
+"KEISER",111912
+"SUNY Delhi",126848
+"Haw-Hilo",2267
+"Pac Union",594
+"E Oregon",2202
+"Evergreen",2866
+"Loras",263
+"Tiffin",2838
+"Fisk",2225
+"SW Minn State",2587
+"Heidelberg",191
+"Miss Coll",2401
+"Berry",2757
+"Colum Intl",3242
+"Oglethorpe",2476
+"DePauw",83
+"Oakland City",2474
+"Penn St-York",112706
+"La Verne",2318
+"Illinois Tech",73
+"SUNYCANTON",111947
+"Lyon",2358
+"Framingham St",126956
+"Mt. St. Mary NY",289
+"Ohio Christian",3121
+"Bard",66779
+"NORTHCENMN",121894
+"Linfield",203
+"St. Ambrose",2591
+"E Menonite",2192
+"Friends",128218
+"PSWILKES",111942
+"La Sierra",3167
+"SW Christi",3238
+"Saintmary",603
+"Platts St",177
+"UT Tyler",3086
+"Asbury",2036
+"Hendrix",418
+"Ave Maria",3178
+"St. Joe's LI",3196
+"North Park",75
+"Point Park",214
+"Molloy",2404
+"Andrews Univer",128343
+"Worcest St",402
+"CHRIS",111180
+"Cheyney (PA)",2129
+"Sul Ross State",2834
+"Lincoln MO",2876
+"Dakota Wesleyan",513
+"Monmouthil",2919
+"MRSVL",108789
+"GOLDY",108859
+"PSU Brandywine",111199
+"Curry",40
+"Brevard",2913
+"ME-Presque Isle",2361
+"NW Indian",3218
+"BENMESA",110031
+"St Thomas (TX)",3170
+"Oakwood",3083
+"Wv Tech",2706
+"Dalton St",3247
+"Sonoma St",2574
+"San Fran State",22
+"Concordia CA",506
+"Wil Jessup",3078
+"McMurry",241
+"KY Wesleyn",2316
+"SW Asm of God",2904
+"Doane",2178
+"Life Univ",124721
+"Will Carey",2730
+"Trinity Il",2652
+"Warner Pac",2952
+"LOURDES",109671
+"Millsaps",2398
+"Coast Guard",2557
+"Piedmont",2496
+"Clark Atl",2805
+"Malone",556
+"Wash and Lee",2688
+"Delta St",2170
+"Covenant",2157
+"Immaculata",107554
+"Vassar",185
+"Ferrum",366
+"Va Wesleyn",2672
+"UMass-Bstn",2660
+"Sarah Lawrence",108862
+"John Jay Col",212
+"RIVIER",111913
+"KS Christian",123410
+"FTLAUD",123362
