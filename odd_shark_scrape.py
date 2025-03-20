@@ -5,7 +5,7 @@ import html5lib
 
 # Read the raw data
 raw = pd.read_csv("oddsshark_scrape.csv")
-seasons = [2023]
+seasons = [2025]
 
 # Loop through each season
 for season in seasons:
